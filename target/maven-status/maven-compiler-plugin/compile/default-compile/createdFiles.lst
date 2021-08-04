@@ -1,0 +1,8 @@
+com\napster\ApplicationIinitializer.class
+com\napster\controllers\FormController.class
+com\napster\controllers\HelloController.class
+com\napster\models\User.class
+com\napster\sirvices\HelloService.class
+com\napster\RootConfig.class
+com\napster\sirvices\UserService.class
+com\napster\WebMvcConfig.class

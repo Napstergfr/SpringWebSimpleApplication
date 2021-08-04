@@ -6,7 +6,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.config.annotation.ViewResolverRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @EnableWebMvc
-@Configuration
+//@Configuration
 @ComponentScan(basePackages = {"com.napster.controllers"})
 public class WebMvcConfig implements WebMvcConfigurer {
     public void configureViewResolvers(ViewResolverRegistry registry) {
